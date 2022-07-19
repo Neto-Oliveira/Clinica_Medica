@@ -1,0 +1,44 @@
+body {
+  color: rgb(0, 0, 0);
+  width: 600px;
+  margin: 0 auto;
+  background-color: #0FC7D3;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+#nomeClinica{
+  text-align: center;
+  color: #ffffff;
+  background-color: blue;
+}
+#Imagem{
+  text-align: center;
+}
+
+#addpaciente{
+  background-color: blue;
+  color: rgb(255, 255, 255);
+}
+#addpaciente:hover{
+  zoom: 110%;
+  opacity: 0.8;
+  transition: 0.3s;
+}
+#urgencia{
+  background-color: red;
+  color: white;
+}
+#urgencia:hover{
+  zoom: 110%;
+  opacity: 0.8;
+  transition: 0.3s;
+}
+#updPaciente{
+  background-color: rgb(72, 105, 21);
+  color: white;
+}
+#updPaciente:hover{
+  zoom: 110%;
+  opacity: 0.8;
+  transition: 0.3s;
+}
